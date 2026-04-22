@@ -1,9 +1,9 @@
 class Helm < Formula
   desc "Helm bridge installer and runtime helpers"
   homepage "https://github.com/DEVLlN/helm"
-  url "https://codeload.github.com/DEVLlN/helm/tar.gz/refs/tags/v0.1.3"
-  sha256 "c1191cb17d599834258b1aae3168d114e2bd1a63f1187706427dd3d4ff70cd92"
-  version "0.1.3"
+  url "https://codeload.github.com/DEVLlN/helm/tar.gz/refs/tags/v0.1.4"
+  sha256 "85fa18c335a418fd386e18c0dc3607b7a7f6d318d5abb00d65d5552851424ec8"
+  version "0.1.4"
   license :cannot_represent
   depends_on "node"
 
